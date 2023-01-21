@@ -12,7 +12,7 @@ Lately, I'm very passionate about writing clean code and following clean archite
 
 ### Reach Out
 Feel free to reach out on any of the below:
-- :large_blue_circle: [LinkedIn](https://www.linkedin.com/in/ioannis-brandt/).
-- :red_circle: [Stack Overflow](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis).
-- :yellow_circle: [Code Review](https://codereview.stackexchange.com/users/268896/ioannis-brant-ioannidis).
-- :black_circle: [Medium](https://medium.com/@ioannis-brandt).
+- :large_blue_circle: [LinkedIn](https://www.linkedin.com/in/ioannis-brandt/)
+- :red_circle: [Stack Overflow](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
+- :yellow_circle: [Code Review](https://codereview.stackexchange.com/users/268896/ioannis-brant-ioannidis)
+- :black_circle: [Medium](https://medium.com/@ioannis-brandt)
