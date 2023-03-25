@@ -12,7 +12,8 @@ I'm Ioannis, a Software Engineer.
 <a/>
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&show_icons=true&include_all_commits=true&count_private=true&title_color=C3D1D9&icon_color=DA3633&text_color=C3D1D9&bg_color=0D1117) 
+[![Ioannis's Github Stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
+
 
 ## StackOverflow
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
