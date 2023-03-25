@@ -12,7 +12,7 @@ I'm Ioannis, a Software Engineer.
 <a/>
 
 ## GitHub Stats
-[![Ioannis's Github Stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
+[![Ioannis's Github Stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&theme=default&show_icons=true)](https://github.com/gbrandtio)
 
 
 ## StackOverflow
