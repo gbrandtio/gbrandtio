@@ -16,7 +16,7 @@ I'm Ioannis, a Software Engineer.
 [![rw-git](https://github-readme-stats.vercel.app/api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
 
 ## GitHub Stats
-[![Ioannis's Github Stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&theme=default&show_icons=true)](https://github.com/gbrandtio)
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/gbrandtio/github-readme-stats)
 
 ## StackOverflow
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
