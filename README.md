@@ -13,7 +13,7 @@ I'm Ioannis, a Software Engineer.
 
 ## Open Source Projects
 [![black-out](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=black-out)](https://github.com/gbrandtio/black-out)
-[![rw-git](https://github-readme-stats-gbrandtio.vercel.app)api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
+[![rw-git](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
 
 ## GitHub Stats
 [![Ioanni's's GitHub stats](https://github-readme-stats-gbrandtio.vercel.app/api?username=gbrandtio&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/gbrandtio/github-readme-stats)  
