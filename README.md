@@ -12,13 +12,13 @@ I'm Ioannis, a Software Engineer.
 <a/>
 
 ## Open Source Projects
-[![black-out](https://github-readme-stats.vercel.app/api/pin/?username=gbrandtio&repo=black-out)](https://github.com/gbrandtio/black-out)
-[![rw-git](https://github-readme-stats.vercel.app/api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
+[![black-out](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=black-out)](https://github.com/gbrandtio/black-out)
+[![rw-git](https://github-readme-stats-gbrandtio.vercel.app)api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
 
 ## GitHub Stats
-[![Ioanni's's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrandtio&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/gbrandtio/github-readme-stats)  
+[![Ioanni's's GitHub stats](https://github-readme-stats-gbrandtio.vercel.app/api?username=gbrandtio&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/gbrandtio/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrandtio&langs_count=8&layout=compact)](https://github.com/gbrandtio/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gbrandtio.vercel.app/api/top-langs/?username=gbrandtio&langs_count=8&layout=compact)](https://github.com/gbrandtio/github-readme-stats)
 
 ## StackOverflow
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
