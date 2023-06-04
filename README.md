@@ -22,4 +22,4 @@ I'm Ioannis, a Software Engineer.
 [![Top Langs](https://github-readme-stats-gbrandtio.vercel.app/api/top-langs/?username=gbrandtio&langs_count=8&layout=compact)](https://github.com/gbrandtio/github-readme-stats)
 
 ## StackOverflow
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
+[![Ioannis Brant-Ioannidis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
