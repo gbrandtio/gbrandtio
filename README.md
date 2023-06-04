@@ -11,7 +11,7 @@ I'm Ioannis, a Software Engineer.
 <p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="gbrandtio" /> </p>
 <a/>
 
-## Open Source Projects
+<!--## Open Source Projects
 [![black-out](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=black-out)](https://github.com/gbrandtio/black-out)
 [![rw-git](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
 [![rw-debouncer](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=rw-debouncer)](https://github.com/gbrandtio/rw-debouncer)
@@ -22,4 +22,4 @@ I'm Ioannis, a Software Engineer.
 [![Top Langs](https://github-readme-stats-gbrandtio.vercel.app/api/top-langs/?username=gbrandtio&langs_count=8&layout=compact)](https://github.com/gbrandtio/github-readme-stats)
 
 ## StackOverflow
-[![Ioannis Brant-Ioannidis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
+[![Ioannis Brant-Ioannidis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)-->
