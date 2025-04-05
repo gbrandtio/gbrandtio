@@ -2,8 +2,7 @@
 # Hello :earth_asia:
 I'm Ioannis, a Software Engineer.
 
-:dart: Currently expanding my knowledge on Dart and Flutter.  
-:bulb: Working on black out, a cross-platform application to notify about planned electricity outages in Greece.  
+:bulb: Maintaining (and expanding) [black out](https://github.com/gbrandtio/black-out), a cross-platform application to notify about planned electricity outages in Greece.  
 :construction_worker:Maintaining [rw_git](https://pub.dev/packages/rw_git). A git wrapper that facilitates the execution of common git commands.
 
 ## Pub Packages
