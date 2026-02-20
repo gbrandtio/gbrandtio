@@ -1,28 +1,12 @@
 
-# Hello :earth_asia:
-I'm Ioannis, a Software Engineer.
+# Hello world :earth_asia:
+I am a passionate builder of systems, products, libraries and whatnot, that, (hopefully), make the society a better place, or, help someone. Lately, I am very interested & experimenting with blockchains, Agentic AI and LoRA Adapters among other things. I often nerd about system & product architecture.
 
-:leafy_green: Making the planet greener with [Ecocup](https://github.com/EcocupX).  
-:bulb: Maintaining (and expanding) [black out](https://github.com/gbrandtio/black-out), a cross-platform application to notify about planned electricity outages in Greece.  
-:construction_worker: Maintaining [rw_git](https://pub.dev/packages/rw_git). A git wrapper that facilitates the execution of common git commands.
-
-## Pub Packages
-<a href="https://pub.dev/publishers/pub.gbrandtio.dev/packages">
-<p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="gbrandtio" /> </p>
-<a/>
+:palm_tree: Making the planet greener with [Ecocup](https://github.com/EcocupX).  
+:bulb: Notifying Greece about electricity outages with [black out](https://github.com/gbrandtio/black-out).  
+:octocat: Making 5k+ developers lives easier with [rw_git](https://pub.dev/packages/rw_git).
 
 ## Buy me a coffee
-:coffee: [Buy me a coffee](https://buymeacoffee.com/giannisbram)
+If you enjoy my products, use my apps, or reuse my code, consider :coffee: [buying me a coffee](https://buymeacoffee.com/giannisbram).
 
-## Open Source Projects
-[![black-out](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=black-out)](https://github.com/gbrandtio/black-out)
-[![rw-git](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=rw-git)](https://github.com/gbrandtio/rw-git)
-[![rw-debouncer](https://github-readme-stats-gbrandtio.vercel.app/api/pin/?username=gbrandtio&repo=rw-debouncer)](https://github.com/gbrandtio/rw-debouncer)
-
-## GitHub Stats
-[![Ioanni's's GitHub stats](https://github-readme-stats-gbrandtio.vercel.app/api?username=gbrandtio&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/gbrandtio/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats-gbrandtio.vercel.app/api/top-langs/?username=gbrandtio&langs_count=8&layout=compact)](https://github.com/gbrandtio/github-readme-stats)
-
-## StackOverflow
-[![Ioannis Brant-Ioannidis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6392398&layout=compact&theme=light)](https://stackoverflow.com/users/6392398/ioannis-brant-ioannidis)
+<img width="200" height="200" alt="buy-me-a-coffee-qr-code" src="https://github.com/user-attachments/assets/7ef03fd7-782e-420a-936b-a79c07830e95" />
