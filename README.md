@@ -1,6 +1,6 @@
 
 # Hello world :earth_asia:
-I am a passionate builder of systems, products, libraries and whatnot, that, (hopefully), make the society a better place, or, help someone. Lately, I am very interested & experimenting with blockchains, Agentic AI and LoRA Adapters among other things. I often nerd about system & product architecture.
+I am a passionate builder of systems, products, libraries and whatnot, that, (hopefully), make the society a better place, or, help someone. Lately, I am very interested & experimenting with blockchains, Agentic AI and LoRA Adapters among other things. I often nerd about systems & product architecture.
 
 :palm_tree: Making the planet greener with [Ecocup](https://github.com/EcocupX).  
 :bulb: Notifying Greece about electricity outages with [Black Out](https://github.com/gbrandtio/black-out).  
