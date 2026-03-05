@@ -10,7 +10,7 @@ I am a passionate builder of systems, products, libraries and whatnot, that, (ho
 
 ## Commercial Software
 
-- <img width="18" height="16" alt="image" src="https://github.com/user-attachments/assets/c0a2b41b-d013-46e2-908a-acf057fb0c32" /> [Lexiscraft](https://buymeacoffee.com/nullingzeros/e/515373).
+- <img width="18" height="16" alt="image" src="https://github.com/user-attachments/assets/c0a2b41b-d013-46e2-908a-acf057fb0c32" /> [Lexiscraft](https://buymeacoffee.com/nullingzeros/e/515373)
 - <img width="18" height="16" alt="image" src="https://github.com/user-attachments/assets/cce5106b-a13e-429c-be6b-4e5c4aa67e92" /> [M-Pulse](https://m-pulse.xyz/)
 
 
