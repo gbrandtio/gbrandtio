@@ -2,6 +2,6 @@
 # Hello world :earth_asia:
 I am a builder of systems, products, libraries and whatnot, that, (hopefully), make the society a better place, or, help someone.
 
-:palm_tree: Making the planet greener with [Ecocup](https://github.com/EcocupX).  
-:octocat: Making 5k+ developers lives easier with [rw_git](https://pub.dev/packages/rw_git).
-<br>
+<img width="15" height="20" alt="image" src="https://github.com/user-attachments/assets/d5aa985a-c12c-456b-8c50-eeef4d41820d" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Making the planet greener with [Ecocup](https://github.com/EcocupX).   
+<img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/b505fcdd-1994-441c-bf9c-40e8eaffab17" /> Providing deep codebase intelligence for Developers, Proejct Managers, Technical Leads with [rw_git](https://pub.dev/packages/rw_git).  
+<img width="22" height="22" alt="logo-mark" src="https://github.com/user-attachments/assets/6815844e-39cc-4efc-ad01-3aa5fe189dee" /> &nbsp;&nbsp;Analyzing code quality metrics on every PR with [Agnostic Code Metrics](https://github.com/rw-core/agnostic-code-metrics).
