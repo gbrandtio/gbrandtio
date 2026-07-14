@@ -1,5 +1,5 @@
 
-# Hello world 🍉
+# Hello world
 I am a builder of systems, products, libraries and whatnot, that, (hopefully), make the society a better place, or, help someone.
 
 - <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/b505fcdd-1994-441c-bf9c-40e8eaffab17" /> Providing deep codebase intelligence that interest various stakeholders with [rw_git](https://pub.dev/packages/rw_git).  
